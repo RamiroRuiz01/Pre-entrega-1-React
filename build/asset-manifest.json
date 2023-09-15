@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17146919.css",
+    "main.js": "/static/js/main.ca8dcc65.js",
+    "static/js/787.d85b9250.chunk.js": "/static/js/787.d85b9250.chunk.js",
+    "static/media/salchi-logo.jpg": "/static/media/salchi-logo.c4daf1f1c24d48a1f9b5.jpg",
+    "static/media/carrito-compras.jpg": "/static/media/carrito-compras.ea67632faabd67c90040.jpg",
+    "index.html": "/index.html",
+    "main.17146919.css.map": "/static/css/main.17146919.css.map",
+    "main.ca8dcc65.js.map": "/static/js/main.ca8dcc65.js.map",
+    "787.d85b9250.chunk.js.map": "/static/js/787.d85b9250.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17146919.css",
+    "static/js/main.ca8dcc65.js"
+  ]
+}

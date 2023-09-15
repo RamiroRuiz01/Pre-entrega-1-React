@@ -1,0 +1,51 @@
+.navbar-nombre{
+    font-size: 85px;
+    font-weight: bold;
+    text-shadow: white 1px 3px 3px;
+    margin: 50px;
+    color: #191919;
+}
+
+.logo-nombre{
+    display: flex;
+}
+
+.salchi-logo{
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #0ea2c7;
+}
+
+.navbar-items{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    gap: 50px;
+    background: #8db5ff;
+}
+
+.botones-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.btn-nav{
+    font-size: 25px;
+    font-weight: bold;
+    background: #007bac;
+    color: white;
+}
+
